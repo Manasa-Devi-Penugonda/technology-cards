@@ -40,7 +40,7 @@ const App = () => (
     <div className="cards-list-container">
       <h1 className="heading">Learn 4.0 Technologies</h1>
       <p className="description">
-        Get trained by alumni of IITs and top companies like Amazon, Microsoft,
+        Get trained by alumni of IIT's and top companies like Amazon, Microsoft,
         Intel, Nvidia, Qualcomm, etc. Learn directly from professionals involved
         in Product Development.
       </p>
